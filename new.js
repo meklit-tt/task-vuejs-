@@ -1,6 +1,5 @@
 new Vue({
-
-
+  el: '#app',
   data: {
     name: 'A mountain B ro',
     course: 'Web Engineer Course',
